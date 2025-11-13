@@ -70,7 +70,7 @@ Question 3.6:
 <img width="811" height="578" alt="image" src="https://github.com/user-attachments/assets/5fa187f6-5ca4-42a1-9a7f-b92b58d82327" />
 
 
-Question 3.6: 
+Question 3.7: 
  
 
 <img width="782" height="490" alt="image" src="https://github.com/user-attachments/assets/2ae3be32-a6fd-41e9-95e5-7c34440d8652" />
